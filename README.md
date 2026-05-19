@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive data analytics project exploring public road safety by identifying high-risk times, primary contributing factors, and critical geographical accident patterns within the United Kingdom. 
 
-## 📌 Project Objectives & Deliverables
+## Project Objectives & Deliverables
 *   **Geospatial Hotspot Mapping:** Generated an interactive, clustered map utilizing Folium to visualize spatial distributions and high-density accident zones.
 *   **Temporal Trend Analysis:** Conducted a mathematically normalized comparative study analyzing daily accident volume fluctuations between weekdays and weekends.
 *   **Contributing Factor Identification:** Isolated and visualized the top three environmental and weather-related drivers behind recorded incidents.
@@ -10,7 +10,7 @@ This repository contains a comprehensive data analytics project exploring public
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 *   **Language:** Python 3
 *   **Data Manipulation:** Pandas, NumPy
 *   **Data Visualization:** Matplotlib, Seaborn
@@ -19,7 +19,7 @@ This repository contains a comprehensive data analytics project exploring public
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 Ensure you have the following libraries installed before running the notebook:
